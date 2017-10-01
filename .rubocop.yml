@@ -126,7 +126,7 @@ Style/Documentation:
   Enabled: false
 
 # This is just silly. Calling the argument `other` in all cases makes no sense.
-Style/OpMethod:
+Naming/BinaryOperatorParameter:
   Enabled: false
 
 # There are valid cases, for example debugging Cucumber steps,
