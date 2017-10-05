@@ -1,5 +1,5 @@
 require_relative "helloworld.rb"
 
-helloWorld = HelloWorld.new
+hello_world = HelloWorld.new
 
-puts helloWorld.execute
+puts hello_world.execute
